@@ -1,0 +1,6 @@
+
+.accordion-panel { background: red; margin-bottom: 10px}
+.accordion-panel--header {
+  background: yellow;
+}
+.accordion-panel--header:hover{cursor: pointer}
